@@ -38,7 +38,9 @@ class Directory extends React.Component {
                 id: 5,
                 linkUrl: 'shop/mens'
               }]
+              
         }
+        
     }
     render(){
         return(
